@@ -23,15 +23,16 @@ Việc của nhóm hôm nay đúng là việc một PM/PO AI làm ngoài doanh n
 
 ## 2. Track của nhóm (điền sau khi nhận track card)
 
-- **Track số / tên**: [...]
+- **Track số / tên**: 05 - Live Class Companion
 - **Big Ask — chép nguyên văn câu yêu cầu trong track card**:
 
 ```text
-[...]
+Xây chatbot hỗ trợ học viên 24/7 trên Discord: gom câu hỏi, cluster confusion, recap, poll.
+Trong giờ học, agent gom câu hỏi Discord và báo instructor phần nào nhiều người vướng.
 ```
 
-- **Công cụ lớn này phục vụ ai** (học viên / coach / instructor / admin): [...]
-- **2 Red Flag đáng lo nhất (chép từ track card)**: 1. [...]  2. [...]
+- **Công cụ lớn này phục vụ ai** (học viên / coach / instructor / admin): Instructor / Admin
+- **2 Red Flag đáng lo nhất (chép từ track card)**: 1. Dữ liệu học viên nhạy cảm 2. Spam/troll trên Discord
 
 ---
 

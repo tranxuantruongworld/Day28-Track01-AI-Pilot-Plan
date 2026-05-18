@@ -6,14 +6,12 @@ format: Nhóm 3
 
 # Group members
 
-- **Tên nhóm / mã nhóm**: [...]
-- **Track được giao**: [...]
-- **Repo GitHub (public)**: [...]
+- **Tên nhóm / mã nhóm**: G07
+- **Track được giao**: 05 - Live Class Companion
+- **Repo GitHub (public)**: (chưa tạo)
 
-| # | Họ tên | Vai chính trong lab |
-|---|---|---|
-| 1 | | giữ Problem Framing (01-frame) |
-| 2 | | lo Solution + bản vẽ trực quan (02-solution) |
-| 3 | | dựng AI Pilot Plan + pitch (03-pilot-plan) |
+| #   | Họ tên           | Vai chính trong lab                                                                  |
+| --- | ---------------- | ------------------------------------------------------------------------------------ |
+| 1   | Trần Xuân Trường | giữ Problem Framing (01-frame) + Solution (02-solution) + Pilot Plan (03-pilot-plan) |
 
 > Vai chính = người chịu trách nhiệm chốt phần đó, không phải người duy nhất làm. Cả nhóm vẫn cùng bàn mọi bước. Khi pitch, phân ai nói slide nào ghi ở `03-pilot-plan/2-FINAL-pitch.md`.
